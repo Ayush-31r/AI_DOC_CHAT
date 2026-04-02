@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+httpx
+pymupdf
+numpy
+redis
+python-dotenv
+pydantic
+huggingface_hub
