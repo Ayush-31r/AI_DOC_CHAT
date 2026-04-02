@@ -1,4 +1,4 @@
-# Wood
+# PDFDoc
 
 A RAG-based PDF chat app. Upload a document, ask questions, get answers grounded in the content.
 
