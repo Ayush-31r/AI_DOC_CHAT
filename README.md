@@ -37,7 +37,7 @@ A RAG-based PDF chat app. Upload a document, ask questions, get answers grounded
 ## Repo structure
 
 ```
-Wood/
+PDFDoc/
 ├── backend/       FastAPI app, RAG pipeline, API routes
 ├── frontend/      Next.js app, UI components, API client
 └── .gitignore
